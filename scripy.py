@@ -16,7 +16,7 @@ print(""""
       7. Increase the size of LV.
       """)
 
-x = input('What do you want to do (Enter the number)')
+x = input('What do you want to do (Enter the number) : ')
 x = int(x)
 
 if x==1:
