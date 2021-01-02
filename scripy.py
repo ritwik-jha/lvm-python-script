@@ -58,5 +58,5 @@ while flag == True:
 		break
 	else:
 		print('no matches found')
-input()
-os.system('clear')
+	input()
+	os.system('clear')
